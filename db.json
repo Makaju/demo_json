@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "vehicleName": "Anshu Chhetri",
+    "dateOfPurchase": "2020-12-12",
+    "inchargeContactNumber": "9824242424",
+    "vehicle_type": "Truck",
+    "vehicle_name_cc": "5000",
+    "pfp": "https://i.pinimg.com/originals/21/77/9d/21779d411c4b3eb601a595c3068fedd4.jpg"
+  },
+  {
+    "id": 2,
+    "vehicleName": "Anshu Chhetri",
+    "dateOfPurchase": "2020-12-12",
+    "inchargeContactNumber": "9824242424",
+    "vehicle_type": "Truck",
+    "vehicle_name_cc": "5000",
+    "pfp": "https://i.pinimg.com/originals/21/77/9d/21779d411c4b3eb601a595c3068fedd4.jpg"
+  },
+  {
+    "id": 2,
+    "vehicleName": "Anshu Chhetri",
+    "dateOfPurchase": "2020-12-12",
+    "inchargeContactNumber": "9824242424",
+    "vehicle_type": "Truck",
+    "vehicle_name_cc": "5000",
+    "pfp": "https://i.pinimg.com/originals/21/77/9d/21779d411c4b3eb601a595c3068fedd4.jpg"
   }
-}
+]
