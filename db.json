@@ -1,31 +1,19 @@
 {
-  "vehicles": [
+  "topics": [
     {
       "id": 1,
-      "vehicleName": "Anshu Chhetri",
-      "dateOfPurchase": "2020-12-12",
-      "inchargeContactNumber": "9824242424",
-      "vehicle_type": "Truck",
-      "vehicle_name_cc": "5000",
-      "pfp": "https://i.pinimg.com/originals/21/77/9d/21779d411c4b3eb601a595c3068fedd4.jpg"
+      "title": "to learn angular",
+      "completed": false
     },
     {
       "id": 2,
-      "vehicleName": "Anshu Chhetri",
-      "dateOfPurchase": "2020-12-12",
-      "inchargeContactNumber": "9824242424",
-      "vehicle_type": "Truck",
-      "vehicle_name_cc": "5000",
-      "pfp": "https://i.pinimg.com/originals/21/77/9d/21779d411c4b3eb601a595c3068fedd4.jpg"
+      "title": "to learn french",
+      "completed": true
     },
     {
       "id": 3,
-      "vehicleName": "Anshu Chhetri",
-      "dateOfPurchase": "2020-12-12",
-      "inchargeContactNumber": "9824242424",
-      "vehicle_type": "Truck",
-      "vehicle_name_cc": "5000",
-      "pfp": "https://i.pinimg.com/originals/21/77/9d/21779d411c4b3eb601a595c3068fedd4.jpg"
+      "title": "to learn some",
+      "completed": false
     }
   ]
 }
